@@ -1,6 +1,7 @@
 # Basic Attendance-analysis-POWERBI
 The aim of this project was to analyse the attendance data in Power BI and transform the data table format using the given parameters .
-Transformed the actual table into both pivoted and unpivoted table and created a measure of Attendance % using DAX.
+Transformed the actual table into both pivoted and unpivoted table by performing various operation and created a measure of Attendance % using DAX.
+                                               '''The transformed tables are in the sheet'''
 
 The insights are:
 
